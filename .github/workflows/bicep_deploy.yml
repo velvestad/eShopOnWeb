@@ -1,4 +1,4 @@
-on: public
+on: [push]
 name: Azure Resource Manager
 
 jobs:
